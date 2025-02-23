@@ -1,20 +1,20 @@
 product_code,product_name,category,total_sales_30_days,total_sales_7_days,total_weight_sold_30_g,total_weight_sold_7_g,total_surface_area_30,total_surface_area_7,Predajnost_30,Predajnost_7
-P00001,Stabilizovaný mach - lišajník - Limetková zelená,Sobí mach - Lišajník,44.0,3.0,14900.0,1500.0,0,0,2.98,0.3
-P00005,Stabilizovaný mach - lišajník - Svetlozelená,Sobí mach - Lišajník,162.5,17.0,149100.0,13900.0,0,0,29.82,2.78
-P00006,Stabilizovaný mach - lišajník - Stredná zelená,Sobí mach - Lišajník,42.0,8.0,19500.0,2400.0,0,0,3.9,0.48
+P00001,Stabilizovaný mach - lišajník - Limetková zelená,Sobí mach - Lišajník,44.0,3.0,14900.0,1500.0,0,0,2.98,0.7
+P00005,Stabilizovaný mach - lišajník - Svetlozelená,Sobí mach - Lišajník,162.5,17.0,149100.0,13900.0,0,0,29.82,6.96
+P00006,Stabilizovaný mach - lišajník - Stredná zelená,Sobí mach - Lišajník,42.0,8.0,19500.0,2400.0,0,0,3.9,0.91
 P00007,Stabilizovaný mach - lišajník - Olivová zelená,Sobí mach - Lišajník,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00008,Stabilizovaný mach - lišajník - Tyrkysová zelená,Sobí mach - Lišajník,12.0,0.0,2900.0,0.0,0,0,0.58,0.0
-P00009,Stabilizovaný mach - lišajník - Lesná zelená,Sobí mach - Lišajník,46.0,7.0,16200.0,4200.0,0,0,3.24,0.84
+P00008,Stabilizovaný mach - lišajník - Tyrkysová zelená,Sobí mach - Lišajník,12.0,0.0,2900.0,0.0,0,0,0.58,0.14
+P00009,Stabilizovaný mach - lišajník - Lesná zelená,Sobí mach - Lišajník,46.0,7.0,16200.0,4200.0,0,0,3.24,0.76
 P00012,Kopčekový mach - Svetlozelená,Kopčekový mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00013,Kopčekový mach - Tmavozelená,Kopčekový mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00014,Kopčekový mach - Stredná zelená,Kopčekový mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00015,Plochý mach - Lesná zelená,Plochý mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00016,Stabilizovaná papraď Argyrea,Stabilizované rastliny a kvety,12.0,3.0,0.0,0.0,0,0,12.0,3.0
+P00016,Stabilizovaná papraď Argyrea,Stabilizované rastliny a kvety,12.0,3.0,0.0,0.0,0,0,12.0,2.8
 P00017,Stabilizovaná papraď Colombia,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00018,Stabilizovaná papraď Parchment,Stabilizované rastliny a kvety,81.0,21.0,0.0,0.0,0,0,81.0,21.0
+P00018,Stabilizovaná papraď Parchment,Stabilizované rastliny a kvety,81.0,21.0,0.0,0.0,0,0,81.0,18.9
 P00019,Stabilizovaný Eukalyptus Parvifolia,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00020,Stabilizovaný Brečtan - zelený,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00021,Stabilizovaný Amarant - Olivovo zelený,Stabilizované rastliny a kvety,2.0,0.0,0.0,0.0,0,0,2.0,0.0
+P00021,Stabilizovaný Amarant - Olivovo zelený,Stabilizované rastliny a kvety,2.0,0.0,0.0,0.0,0,0,2.0,0.47
 P00022,Stabilizovaný Amarant - vínovo červený,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00024,Tavná pištol Extol,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00025,Rám na machový obraz - 30x30cm - stredne hnedý,Rámy na machové obrazy,0.0,0.0,0.0,0.0,0,0,0.0,0.0
@@ -23,58 +23,58 @@ P00027,Rám na machový obraz - 80x40cm - stredne hnedý,Rámy na machové obraz
 P00028,Rám na machový obraz - 30x30cm - odtieň Lipa,Rámy na machové obrazy,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00029,Rám na machový obraz - 40x50cm - odtieň Lipa,Rámy na machové obrazy,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00030,Rám na machový obraz - 80x40cm - odtieň Lipa,Rámy na machové obrazy,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00031,Lepiace tyčinky 11x200mm,Príslušenstvo,30.0,3.0,0.0,0.0,0,0,30.0,3.0
+P00031,Lepiace tyčinky 11x200mm,Príslušenstvo,30.0,3.0,0.0,0.0,0,0,30.0,7.0
 P00032,Plochý mach - Tenký - Svetlá zelená,Plochý mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00033,Stabilizovaný mach - lišajník - Červená,Sobí mach - Lišajník,16.0,1.0,5900.0,1000.0,0,0,1.18,0.2
-P00034,Stabilizovaný mach - lišajník - Žltá,Sobí mach - Lišajník,12.0,2.0,3700.0,1500.0,0,0,0.74,0.3
+P00033,Stabilizovaný mach - lišajník - Červená,Sobí mach - Lišajník,16.0,1.0,5900.0,1000.0,0,0,1.18,0.28
+P00034,Stabilizovaný mach - lišajník - Žltá,Sobí mach - Lišajník,12.0,2.0,3700.0,1500.0,0,0,0.74,0.17
 P00035,Plochý mach - Premium - Extra hrubý,Plochý mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00036,Lepidlo na stabilizovaný mach,Príslušenstvo,231.0,25.0,333550.0,40700.0,0,0,231.0,25.0
-P00037,Plochý mach - Prírodná zelená,Plochý mach,161.15,14.4,149150.0,13150.0,0,0,49.72,4.38
+P00036,Lepidlo na stabilizovaný mach,Príslušenstvo,231.0,25.0,333550.0,40700.0,0,0,231.0,53.9
+P00037,Plochý mach - Prírodná zelená,Plochý mach,161.15,14.4,149150.0,13150.0,0,0,49.72,11.6
 P00039,Stabilizovaná papraď Parchment - červená,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00041,"Kopčekový mach - Jasná zelená - Balenie 0,1m2",Kopčekový mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00042,Stabilizovaná papraď Adianthum Lutti,Stabilizované rastliny a kvety,73.0,19.0,0.0,0.0,0,0,73.0,19.0
+P00042,Stabilizovaná papraď Adianthum Lutti,Stabilizované rastliny a kvety,73.0,19.0,0.0,0.0,0,0,73.0,17.03
 P00043,Stabilizovaná Lanuginosa,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00044,Plastová stierka,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00045,Stabilizovaný Amarant - zelený,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00046,Stabilizovaný mach - lišajník - 100g - Čistený - ŠPECIÁLNA PONUKA,Sobí mach - Lišajník,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00047,"Kopčekový mach - ""Korytnačka"" - Svetlo zelená",Kopčekový mach,141.0,60.0,0.0,0.0,0,0,141.0,60.0
-P00048,Stabilizovaná papraď Sertularia,Stabilizované rastliny a kvety,52.0,7.0,0.0,0.0,0,0,52.0,7.0
+P00047,"Kopčekový mach - ""Korytnačka"" - Svetlo zelená",Kopčekový mach,141.0,60.0,0.0,0.0,0,0,141.0,32.9
+P00048,Stabilizovaná papraď Sertularia,Stabilizované rastliny a kvety,52.0,7.0,0.0,0.0,0,0,52.0,12.13
 P00049,Rám na machový obraz - 80x40cm - Dub,Rámy na machové obrazy,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00050,Rám na machový obraz - 80x40cm - Eben (Čierna),Rámy na machové obrazy,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00051,Rám na machový obraz - 80x40cm - Biely,Rámy na machové obrazy,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00053,Rám na machový obraz - Hexagón - Orech,Rámy na machové obrazy,2.0,1.0,0.0,0.0,0,0,2.0,1.0
-P00054,Stabilizovaný mach - lišajník - Mentolová,Sobí mach - Lišajník,26.0,7.0,22900.0,3800.0,0,0,4.58,0.76
+P00053,Rám na machový obraz - Hexagón - Orech,Rámy na machové obrazy,2.0,1.0,0.0,0.0,0,0,2.0,0.47
+P00054,Stabilizovaný mach - lišajník - Mentolová,Sobí mach - Lišajník,26.0,7.0,22900.0,3800.0,0,0,4.58,1.07
 P00055,"Stabilizovaná ""Riasoguľa""",Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00056,"Stabilizovaná okrasná tráva ""Tiki""",Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00057,Stabilizovaná papraď Brillant,Stabilizované rastliny a kvety,58.0,5.0,0.0,0.0,0,0,58.0,5.0
-P00058,Stabilizovaná papraď Rock,Stabilizované rastliny a kvety,12.0,2.0,0.0,0.0,0,0,12.0,2.0
-P00059,Stabilizovaná papraď Leather,Stabilizované rastliny a kvety,22.0,2.0,0.0,0.0,0,0,22.0,2.0
-P00060,Kruhový rám na machový obraz - Rôzne veľkosti - Eben (Čierna),Rámy na machové obrazy,1.0,0.0,0.0,0.0,0,0,1.0,0.0
-P00061,Kruhový rám na machový obraz - Rôzne veľkosti - Dub,Rámy na machové obrazy,6.0,0.0,0.0,0.0,0,0,6.0,0.0
+P00057,Stabilizovaná papraď Brillant,Stabilizované rastliny a kvety,58.0,5.0,0.0,0.0,0,0,58.0,13.53
+P00058,Stabilizovaná papraď Rock,Stabilizované rastliny a kvety,12.0,2.0,0.0,0.0,0,0,12.0,2.8
+P00059,Stabilizovaná papraď Leather,Stabilizované rastliny a kvety,22.0,2.0,0.0,0.0,0,0,22.0,5.13
+P00060,Kruhový rám na machový obraz - Rôzne veľkosti - Eben (Čierna),Rámy na machové obrazy,1.0,0.0,0.0,0.0,0,0,1.0,0.23
+P00061,Kruhový rám na machový obraz - Rôzne veľkosti - Dub,Rámy na machové obrazy,6.0,0.0,0.0,0.0,0,0,6.0,1.4
 P00062,Kruhový rám na machový obraz - Rôzne veľkosti - Biela,Rámy na machové obrazy,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00063,Drevený hríbik,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00064,Stabilizovaný mach - lišajník - Natural,Sobí mach - Lišajník,13.0,0.0,2900.0,0.0,0,0,0.58,0.0
-P00065,Stabilizovaný mach - lišajník - Oranžová,Sobí mach - Lišajník,14.0,0.0,3100.0,0.0,0,0,0.62,0.0
-P00066,Stabilizovaný mach - lišajník - Tmavozelená,Sobí mach - Lišajník,44.0,7.5,22900.0,4700.0,0,0,4.58,0.94
-P00067,Stabilizovaný Amarant - červený,Stabilizované rastliny a kvety,13.0,9.0,0.0,0.0,0,0,13.0,9.0
-P00068,Kopčekový mach - Provensálsky,Kopčekový mach,39.0,4.0,0.0,0.0,0,0,39.0,4.0
-P00069,Čistený stabilizovaný mach - lišajník - Jablkovozelená - Fínsky,Sobí mach - Lišajník,150.0,21.0,76900.0,9000.0,0,0,15.38,1.8
+P00064,Stabilizovaný mach - lišajník - Natural,Sobí mach - Lišajník,13.0,0.0,2900.0,0.0,0,0,0.58,0.14
+P00065,Stabilizovaný mach - lišajník - Oranžová,Sobí mach - Lišajník,14.0,0.0,3100.0,0.0,0,0,0.62,0.14
+P00066,Stabilizovaný mach - lišajník - Tmavozelená,Sobí mach - Lišajník,44.0,7.5,22900.0,4700.0,0,0,4.58,1.07
+P00067,Stabilizovaný Amarant - červený,Stabilizované rastliny a kvety,13.0,9.0,0.0,0.0,0,0,13.0,3.03
+P00068,Kopčekový mach - Provensálsky,Kopčekový mach,39.0,4.0,0.0,0.0,0,0,39.0,9.1
+P00069,Čistený stabilizovaný mach - lišajník - Jablkovozelená - Fínsky,Sobí mach - Lišajník,150.0,21.0,76900.0,9000.0,0,0,15.38,3.59
 P00070,Sušený hríb - Biely,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00071,Sušený hríb - Hnedý,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00072,Kopčekový mach - Jablkovo zelená,Kopčekový mach,129.0,16.0,0.0,0.0,0,0,129.0,16.0
+P00072,Kopčekový mach - Jablkovo zelená,Kopčekový mach,129.0,16.0,0.0,0.0,0,0,129.0,30.1
 P00073,Lano na machový strom hr. 10mm,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00074,Lano na machový strom hr. 18mm,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00075,Čistený stabilizovaný mach - lišajník - Smaragdová zelená - Fínsky,Sobí mach - Lišajník,177.0,19.0,78100.0,8000.0,0,0,15.62,1.6
-P00076,Čistený stabilizovaný mach - lišajník - Borovicová zelená - Fínsky,Sobí mach - Lišajník,69.0,12.0,30700.0,4500.0,0,0,6.14,0.9
-P00077,Stabilizovaný mach - lišajník PREMIUM - Jarná zelená,Sobí mach - Lišajník,111.9,20.9,166700.0,20400.0,0,0,33.34,4.08
-P00078,Stabilizovaná papraď Davalia - červená,Stabilizované rastliny a kvety,10.0,2.0,0.0,0.0,0,0,10.0,2.0
+P00075,Čistený stabilizovaný mach - lišajník - Smaragdová zelená - Fínsky,Sobí mach - Lišajník,177.0,19.0,78100.0,8000.0,0,0,15.62,3.64
+P00076,Čistený stabilizovaný mach - lišajník - Borovicová zelená - Fínsky,Sobí mach - Lišajník,69.0,12.0,30700.0,4500.0,0,0,6.14,1.43
+P00077,Stabilizovaný mach - lišajník PREMIUM - Jarná zelená,Sobí mach - Lišajník,111.9,20.9,166700.0,20400.0,0,0,33.34,7.78
+P00078,Stabilizovaná papraď Davalia - červená,Stabilizované rastliny a kvety,10.0,2.0,0.0,0.0,0,0,10.0,2.33
 P00079,Rám na machový obraz - 40x50cm - odtieň Smrek,Rámy na machové obrazy,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00080,Darčeková poukážka,Príslušenstvo,3.0,0.0,0.0,0.0,0,0,3.0,0.0
+P00080,Darčeková poukážka,Príslušenstvo,3.0,0.0,0.0,0.0,0,0,3.0,0.7
 P00081,Stabilizované kvety Bogenvilea - zelené,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00082,Stabilizovaná papraď obyčajná,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00083,Stabilizovaný Brečtan - červený,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00084,Stabilizované dubové vetvičky - jesenná trikolóra,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00085,Stabilizovaný mach - lišajník - Tehlová,Sobí mach - Lišajník,18.0,1.0,3000.0,100.0,0,0,0.6,0.02
+P00085,Stabilizovaný mach - lišajník - Tehlová,Sobí mach - Lišajník,18.0,1.0,3000.0,100.0,0,0,0.6,0.14
 P00086,Dekoračný kameň - Biely Mramor,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00087,Dekoračný kameň - Ružovo-sivý Vápenec,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00088,Dekoračný kameň - Kamenná kôra,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
@@ -82,14 +82,14 @@ P00089,Stabilizovaná ruža - žiarivá červená,Stabilizované rastliny a kvet
 P00090,Stabilizovaná ruža - romantická ružová,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00091,Stabilizovaná ruža - champagne,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00092,Darčeková sada na výrobu machového obrazu - plochý + kopčekový mach jasne zelený,Darčekové sady na výrobu obrazov,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00093,Stabilizovaná papraď Felci - zelená,Stabilizované rastliny a kvety,6.0,0.0,0.0,0.0,0,0,6.0,0.0
+P00093,Stabilizovaná papraď Felci - zelená,Stabilizované rastliny a kvety,6.0,0.0,0.0,0.0,0,0,6.0,1.4
 P00094,Stabilizovaná papraď Felci - olivovo zelená,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00095,Stabilizovaný Eukalyptus Nicoly,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00096,Kopčekový mach - Limetková zelená,Kopčekový mach,72.0,8.0,0.0,0.0,0,0,72.0,8.0
+P00096,Kopčekový mach - Limetková zelená,Kopčekový mach,72.0,8.0,0.0,0.0,0,0,72.0,16.8
 P00097,Kopčekový mach - lesná zelená,Kopčekový mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00098,Stabilizovaná biela papraď - VEĽKÁ,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00100,Sušená škorica,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00101,Stabilizovaný Amarant - Stredná zelená,Stabilizované rastliny a kvety,47.0,6.0,0.0,0.0,0,0,47.0,6.0
+P00101,Stabilizovaný Amarant - Stredná zelená,Stabilizované rastliny a kvety,47.0,6.0,0.0,0.0,0,0,47.0,10.97
 P00102,Stabilizovaná hortenzia - zelená,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00103,Stabilizovaná hortenzia - vínovo červená,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00104,Stabilizovaný Cocolus,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
@@ -98,9 +98,9 @@ P00106,Plochý mach - Tenký - Jasná zelená,Plochý mach,0.0,0.0,0.0,0.0,0,0,0
 P00107,Kopčekový mach - Solitér - Veľký kopček,Kopčekový mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00109,Lepiaca tyčinka 11x200mm,JARNÁ PONUKA,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00110,Stabilizovaný mach - lišajník - Modrá,Sobí mach - Lišajník,17.0,2.0,6400.0,1500.0,0,0,1.28,0.3
-P00111,Stabilizovaný mach - lišajník - Čierna,Sobí mach - Lišajník,13.0,1.0,3900.0,100.0,0,0,0.78,0.02
-P00112,Stabilizovaný mach - lišajník - Ružová,Sobí mach - Lišajník,16.0,1.0,9900.0,1000.0,0,0,1.98,0.2
-P00113,Stabilizovaný mach - lišajník - Staroružová,Sobí mach - Lišajník,14.0,0.0,4900.0,0.0,0,0,0.98,0.0
+P00111,Stabilizovaný mach - lišajník - Čierna,Sobí mach - Lišajník,13.0,1.0,3900.0,100.0,0,0,0.78,0.18
+P00112,Stabilizovaný mach - lišajník - Ružová,Sobí mach - Lišajník,16.0,1.0,9900.0,1000.0,0,0,1.98,0.46
+P00113,Stabilizovaný mach - lišajník - Staroružová,Sobí mach - Lišajník,14.0,0.0,4900.0,0.0,0,0,0.98,0.23
 P00114,"Kopčekový mach - Smaragdová zelená - Balenie 0,11m2",Kopčekový mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00115,Stabilizované kvety Botao - Biele,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00116,Stabilizované kvety Gypsophila - Červená,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
@@ -108,10 +108,10 @@ P00117,Stabilizované kvety Gypsophila - Tyrkysová,Stabilizované rastliny a kv
 P00118,Stabilizované kvety Gypsophila - Žltá,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00119,Stabilizované kvety Gypsophila - Bledoružová,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00120,Stabilizované kvety Ixodia - Biele,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00121,Stabilizovaná papraď Davalia - zelená,Stabilizované rastliny a kvety,22.0,2.0,0.0,0.0,0,0,22.0,2.0
-P00122,Kruhový rám na machový obraz - Rôzne veľkosti - Smrek,Rámy na machové obrazy,7.0,3.0,0.0,0.0,0,0,7.0,3.0
+P00121,Stabilizovaná papraď Davalia - zelená,Stabilizované rastliny a kvety,22.0,2.0,0.0,0.0,0,0,22.0,5.13
+P00122,Kruhový rám na machový obraz - Rôzne veľkosti - Smrek,Rámy na machové obrazy,7.0,3.0,0.0,0.0,0,0,7.0,1.63
 P00123,Darčeková sada na výrobu machového obrazu - plochý + kopčekový mach svetlo zelený,Darčekové sady na výrobu obrazov,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00124,Stabilizovaný Amarant - Svetlozelený,Stabilizované rastliny a kvety,22.0,3.0,0.0,0.0,0,0,22.0,3.0
+P00124,Stabilizovaný Amarant - Svetlozelený,Stabilizované rastliny a kvety,22.0,3.0,0.0,0.0,0,0,22.0,5.13
 P00126,Čistený stabilizovaný mach - lišajník - Khaki - Fínsky,Sobí mach - Lišajník,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00127,Stabilizovaný Amarant - olivovo zelený - 20g,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00128,Stabilizované kvety Gypsophila - Krémová,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
@@ -121,12 +121,12 @@ P00131,Stabilizované kvety Levandula,Stabilizované rastliny a kvety,0.0,0.0,0.
 P00132,Stabilizovaný Eukalyptus Populus - Červený,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00133,Stabilizovaný Eukalyptus Cinerea,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00134,Stabilizovaný Amarant - Tmavozelený,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00135,Stabilizovaný Amarant - Biely,Stabilizované rastliny a kvety,10.0,2.0,0.0,0.0,0,0,10.0,2.0
+P00135,Stabilizovaný Amarant - Biely,Stabilizované rastliny a kvety,10.0,2.0,0.0,0.0,0,0,10.0,2.33
 P00136,Stabilizovaný Amarant - Bledoružový,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00137,Stabilizovaný Amarant - Magenta,Stabilizované rastliny a kvety,5.0,1.0,0.0,0.0,0,0,5.0,1.0
+P00137,Stabilizovaný Amarant - Magenta,Stabilizované rastliny a kvety,5.0,1.0,0.0,0.0,0,0,5.0,1.17
 P00138,Stabilizovaný Amarant - Lososový,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00139,Stabilizovaný Amarant - Marhuľový,Stabilizované rastliny a kvety,3.0,0.0,0.0,0.0,0,0,3.0,0.0
-P00140,Stabilizovaný Amarant - Bledomodrý,Stabilizované rastliny a kvety,3.0,0.0,0.0,0.0,0,0,3.0,0.0
+P00139,Stabilizovaný Amarant - Marhuľový,Stabilizované rastliny a kvety,3.0,0.0,0.0,0.0,0,0,3.0,0.7
+P00140,Stabilizovaný Amarant - Bledomodrý,Stabilizované rastliny a kvety,3.0,0.0,0.0,0.0,0,0,3.0,0.7
 P00141,Stabilizovaná hortenzia - Tmavá ružová,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00142,Stabilizovaná hortenzia - Modro-ružová,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00143,Stabilizovaná hortenzia - Krémovo-ružová,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
@@ -142,10 +142,10 @@ P00153,Podklad na machové srdce,Rámy na machové obrazy,0.0,0.0,0.0,0.0,0,0,0.
 P00154,Stabilizovaný vres - Natural,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00156,Stabilizovaný Papyrus,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00157,Kopčekový mach - prírodná zelená,Kopčekový mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00159,Čistený stabilizovaný mach - lišajník - Tmavá - Fínsky,Sobí mach - Lišajník,44.0,4.0,19100.0,1200.0,0,0,3.82,0.24
-P00160,Čistený stabilizovaný mach - lišajník - Citrónová - Fínsky,Sobí mach - Lišajník,23.0,2.0,5300.0,1000.0,0,0,1.06,0.2
-P00161,Čistený stabilizovaný mach - lišajník - Natural - Fínsky,Sobí mach - Lišajník,50.0,5.0,15300.0,500.0,0,0,3.06,0.1
-P00162,Podklad na machový kruh,Rámy na machové obrazy,4.0,0.0,0.0,0.0,0,0,4.0,0.0
+P00159,Čistený stabilizovaný mach - lišajník - Tmavá - Fínsky,Sobí mach - Lišajník,44.0,4.0,19100.0,1200.0,0,0,3.82,0.89
+P00160,Čistený stabilizovaný mach - lišajník - Citrónová - Fínsky,Sobí mach - Lišajník,23.0,2.0,5300.0,1000.0,0,0,1.06,0.25
+P00161,Čistený stabilizovaný mach - lišajník - Natural - Fínsky,Sobí mach - Lišajník,50.0,5.0,15300.0,500.0,0,0,3.06,0.71
+P00162,Podklad na machový kruh,Rámy na machové obrazy,4.0,0.0,0.0,0.0,0,0,4.0,0.93
 P00163,Stabilizovaný Eukalyptus Populus - Zelený,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00164,Stabilizovaný Eukalyptus Baby,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00165,Stabilizované kvety Botao - Oranžové,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
@@ -157,19 +157,19 @@ P00170,Stabilizovaná papraď Lutti - Svetlozelená,Stabilizované rastliny a kv
 P00171,Stabilizovaná papraď Tabalia,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00172,Dekoračný kameň - Čierny Mramor,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00173,Dekoračný kameň - Oranžový Mramor,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00174,"Stabilizovaná machová ""Hviezdica""",Stabilizované rastliny a kvety,54.0,11.0,0.0,0.0,0,0,54.0,11.0
+P00174,"Stabilizovaná machová ""Hviezdica""",Stabilizované rastliny a kvety,54.0,11.0,0.0,0.0,0,0,54.0,12.6
 P00175,Plochý mach - Papraďový - Extra hrubý,Plochý mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00176,Stabilizované kvety Botao - Žlté,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00177,Stabilizované kvety Hlavačka -Bledoružová,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00178,Stabilizované kvety Zlatobyľ - Zelené,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00179,Stabilizované kvety Mimóza,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00180,Stabilizovaná hortenzia - citrónová,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00181,Strom života - Natural,Rámy na machové obrazy,2.0,1.0,0.0,0.0,0,0,2.0,1.0
+P00181,Strom života - Natural,Rámy na machové obrazy,2.0,1.0,0.0,0.0,0,0,2.0,0.47
 P00182,Lesné čučoriedkové víno 1l,VALENTÍN,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00183,Ríbezlové víno 1l,VALENTÍN,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00185,Stabilizované kvety Hlavačka - Olivovozelené,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00186,Stabilizovaná pampová tráva,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00187,Lišajníkový panel - 60x40cm,Sobí mach - Lišajník,16.0,0.0,0.0,0.0,0,0,16.0,0.0
+P00187,Lišajníkový panel - 60x40cm,Sobí mach - Lišajník,16.0,0.0,0.0,0.0,0,0,16.0,3.73
 P00188,Stabilizované kvety Achillea - Jasná zelená,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00189,Sušené kvety Acroclinium - Ružové,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00190,Sušené kvety Phalaris - Ružové,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
@@ -180,8 +180,8 @@ P00194,Sušené kvety Phalaris - Tyrkysové,Stabilizované rastliny a kvety,0.0,
 P00195,Sušené kvety Babala - Jasnozelené,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00196,Stabilizované kvety Gypsophila - Ružová,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00197,Stabilizovaná zelená papraď - VEĽKÁ - 10 ks,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00198,"Kopčekový mach - ""Korytnačka"" - Prírodná zelená",Kopčekový mach,188.0,34.0,0.0,0.0,0,0,188.0,34.0
-P00199,Stabilizovaná papraď Leather - Svetlozelená,Stabilizované rastliny a kvety,6.0,0.0,0.0,0.0,0,0,6.0,0.0
+P00198,"Kopčekový mach - ""Korytnačka"" - Prírodná zelená",Kopčekový mach,188.0,34.0,0.0,0.0,0,0,188.0,43.87
+P00199,Stabilizovaná papraď Leather - Svetlozelená,Stabilizované rastliny a kvety,6.0,0.0,0.0,0.0,0,0,6.0,1.4
 P00200,Stabilizovaná papraď Dragon,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00201,Stabilizovaný Brečtan - žltý,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00203,Stabilizovaná Setaria - 150g,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
@@ -190,14 +190,14 @@ P00205,Stabilizované kvety Limonium - Ružové,Stabilizované rastliny a kvety,
 P00206,Stabilizované kvety Botao - Bordové,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00207,Sušená okrasná peria tráva,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00208,Stabilizovaný ryžový kvet - Kráľovská modrá,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00209,Stabilizovaná snežná papraď,Stabilizované rastliny a kvety,50.0,8.0,0.0,0.0,0,0,50.0,8.0
+P00209,Stabilizovaná snežná papraď,Stabilizované rastliny a kvety,50.0,8.0,0.0,0.0,0,0,50.0,11.67
 P00210,Stabilizovaná hortenzia - Krémová,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00211,Stabilizovaná vodná papraď,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00212,Stabilizovaná papraď Leather - Biela,Stabilizované rastliny a kvety,34.0,9.0,0.0,0.0,0,0,34.0,9.0
+P00212,Stabilizovaná papraď Leather - Biela,Stabilizované rastliny a kvety,34.0,9.0,0.0,0.0,0,0,34.0,7.93
 P00213,Stabilizovaná papraď Lutti - Balenie,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00214,Sušené kvety Phalaris - Marhuľové,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00215,Plochý mach - Prírodná zelená PREMIUM,Plochý mach,60.0,11.0,0.0,0.0,0,0,60.0,11.0
-P00216,DIY sada machový kruh 30cm - lišajník,Darčekové sady na výrobu obrazov,1.0,0.0,0.0,0.0,0,0,1.0,0.0
+P00215,Plochý mach - Prírodná zelená PREMIUM,Plochý mach,60.0,11.0,0.0,0.0,0,0,60.0,14.0
+P00216,DIY sada machový kruh 30cm - lišajník,Darčekové sady na výrobu obrazov,1.0,0.0,0.0,0.0,0,0,1.0,0.23
 P00217,Stabilizovaný ryžový kvet - Modrý,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00218,Stabilizovaný ryžový kvet - Staroružový,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00219,Stabilizovaný Eukalyptus - Strieborný,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
@@ -213,11 +213,11 @@ P00230,Sušené kvety Phalaris - Terakota,Stabilizované rastliny a kvety,0.0,0.
 P00231,Stabilizovaný Olivovník - 250g,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00232,Stabilizovaná hortenzia - Marhuľová - PREMIUM,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00233,DIY sada machový obdĺžnik 42x30cm,Darčekové sady na výrobu obrazov,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00235,Lepiace tyčinky 7x100mm - Malé,Príslušenstvo,7.0,3.0,0.0,0.0,0,0,7.0,3.0
+P00235,Lepiace tyčinky 7x100mm - Malé,Príslušenstvo,7.0,3.0,0.0,0.0,0,0,7.0,1.63
 P00236,Sušený hríb na paličke - Hnedý,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00237,Sušený kvet Banksia - Červený,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00238,Sušený kvet Banksia - Žltý,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00239,Stabilizovaný mach - lišajník - Jantárová,Sobí mach - Lišajník,12.0,1.0,2800.0,100.0,0,0,0.56,0.02
+P00239,Stabilizovaný mach - lišajník - Jantárová,Sobí mach - Lišajník,12.0,1.0,2800.0,100.0,0,0,0.56,0.13
 P00240,Tavná pištol - malá,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00241,Stabilizovaný Olivovník,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00242,Plochý mach - Balenie 1m2,Plochý mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
@@ -230,13 +230,13 @@ P00248,Drevená kôra - Prírodná,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00249,Lotosový kvet - sušený,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00250,Drevené konáre - Zlatohnedé,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00251,Šiška - sušená,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00252,Palmový kvet - sušený,Príslušenstvo,29.0,11.0,0.0,0.0,0,0,29.0,11.0
+P00252,Palmový kvet - sušený,Príslušenstvo,29.0,11.0,0.0,0.0,0,0,29.0,6.77
 P00253,"Kopčekový mach - Sibírsky mach - Balenie 0,3m2",Kopčekový mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00254,Drevený rám na mieru,Rámy na machové obrazy,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00255,TEST,Unknown,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00256,Rukavice,Príslušenstvo,1.0,0.0,0.0,0.0,0,0,1.0,0.0
+P00256,Rukavice,Príslušenstvo,1.0,0.0,0.0,0.0,0,0,1.0,0.23
 P00257,Stabilizovaná hortenzia - Modrá,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00258,Strom života,Rámy na machové obrazy,13.0,1.0,0.0,0.0,0,0,13.0,1.0
+P00258,Strom života,Rámy na machové obrazy,13.0,1.0,0.0,0.0,0,0,13.0,3.03
 P00259,Drevené kolieska malé,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00261,Stabilizovaný ryžový kvet - Červený,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00262,Stabilizované kvety Limonium - Magenta,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
@@ -246,40 +246,40 @@ P00265,Rám na machový obraz - Trojuholník - Smrek,Rámy na machové obrazy,0.
 P00266,Rám na machový obraz - 40x50cm - Dub,Rámy na machové obrazy,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00268,Lepiaca tyčinka 7x100mm - Malá,Unknown,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00269,Stabilizované vetvičky Ming,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00271,Stabilizovaná papraď Rumora,Stabilizované rastliny a kvety,29.0,4.0,0.0,0.0,0,0,29.0,4.0
+P00271,Stabilizovaná papraď Rumora,Stabilizované rastliny a kvety,29.0,4.0,0.0,0.0,0,0,29.0,6.77
 P00272,Palmová kôra,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00273,Stabilizované kvety Botao - Dúhové,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00274,Plochý mach - Francúzsky - Tmavá zelená,Plochý mach,63.4,10.4,57400.0,9150.0,0,0,19.13,3.05
-P00275,Machový strom - Svetlozelený,JARNÁ PONUKA,4.0,2.0,0.0,0.0,0,0,4.0,2.0
-P00276,Machový strom - Smaragdová zelená,JARNÁ PONUKA,1.0,0.0,0.0,0.0,0,0,1.0,0.0
-P00277,Machový strom - Limetková zelená,JARNÁ PONUKA,1.0,0.0,0.0,0.0,0,0,1.0,0.0
-P00278,Stabilizovaný Amarant - Limetková zelená,Stabilizované rastliny a kvety,43.0,3.0,0.0,0.0,0,0,43.0,3.0
+P00274,Plochý mach - Francúzsky - Tmavá zelená,Plochý mach,63.4,10.4,57400.0,9150.0,0,0,19.13,4.46
+P00275,Machový strom - Svetlozelený,JARNÁ PONUKA,4.0,2.0,0.0,0.0,0,0,4.0,0.93
+P00276,Machový strom - Smaragdová zelená,JARNÁ PONUKA,1.0,0.0,0.0,0.0,0,0,1.0,0.23
+P00277,Machový strom - Limetková zelená,JARNÁ PONUKA,1.0,0.0,0.0,0.0,0,0,1.0,0.23
+P00278,Stabilizovaný Amarant - Limetková zelená,Stabilizované rastliny a kvety,43.0,3.0,0.0,0.0,0,0,43.0,10.03
 P00279,Drevená kôra - Biela,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00280,Stabilizovaná svetlozelená papraď - VEĽKÁ - 10 ks,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00281,Stabilizované kvety Plumosum - Ružové,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00282,Sušené kvety Phalaris - Magenta,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00283,Stabilizovaný ryžový kvet - Biely,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00284,Stabilizovaný ryžový kvet - Zelený,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00285,Stabilizovaný mach - lišajník - Ďatelinová,Sobí mach - Lišajník,68.0,10.5,33800.0,8600.0,0,0,6.76,1.72
+P00285,Stabilizovaný mach - lišajník - Ďatelinová,Sobí mach - Lišajník,68.0,10.5,33800.0,8600.0,0,0,6.76,1.58
 P00286,Rám na machový obraz - 80x40cm - odtieň Smrek,Rámy na machové obrazy,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00287,Stabilizovaná papraď Adianthum Lutti - červená,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00289,Stabilizovaný mach - lišajník - Hnedá,Sobí mach - Lišajník,15.0,3.0,1500.0,300.0,0,0,0.3,0.06
+P00289,Stabilizovaný mach - lišajník - Hnedá,Sobí mach - Lišajník,15.0,3.0,1500.0,300.0,0,0,0.3,0.07
 P00290,Stabilizované vetvičky Ming - Biele,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00291,"Stabilizovaná ""medvedia"" tráva",Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00292,Stabilizované kvety Levandula - Natural,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00293,Drevená kôra - Zlatohnedá,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00294,"Kopčekový mach - ""Ježko"" - Svetlo zelená",Kopčekový mach,16.0,7.0,0.0,0.0,0,0,16.0,7.0
-P00295,"Kopčekový mach - ""Ježko"" - Prírodná zelená",Kopčekový mach,16.0,0.0,0.0,0.0,0,0,16.0,0.0
+P00294,"Kopčekový mach - ""Ježko"" - Svetlo zelená",Kopčekový mach,16.0,7.0,0.0,0.0,0,0,16.0,3.73
+P00295,"Kopčekový mach - ""Ježko"" - Prírodná zelená",Kopčekový mach,16.0,0.0,0.0,0.0,0,0,16.0,3.73
 P00296,Bell Cup - Zlaté,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00297,Sušený ovos,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00298,Stabilizované kvety Broom - Červené,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00299,Stabilizovaný Eukalyptus Baby - Biely,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00300,Stabilizovaná papraď Rumora - červená,Stabilizované rastliny a kvety,19.0,5.0,0.0,0.0,0,0,19.0,5.0
+P00300,Stabilizovaná papraď Rumora - červená,Stabilizované rastliny a kvety,19.0,5.0,0.0,0.0,0,0,19.0,4.43
 P00301,Sušené kvety Rozeta,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00302,Sušený bavlník,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00303,1x Hmoždinka + 1x skrutka,Unknown,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00304,2x Hmoždinka + 2x skrutka,Unknown,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00306,Darčeková sada na výrobu machového obrazu - plochý + kopčekový mach - 80x40cm,Darčekové sady na výrobu obrazov,1.0,0.0,0.0,0.0,0,0,1.0,0.0
+P00306,Darčeková sada na výrobu machového obrazu - plochý + kopčekový mach - 80x40cm,Darčekové sady na výrobu obrazov,1.0,0.0,0.0,0.0,0,0,1.0,0.23
 P00308,Stabilizovaný vres - Magenta,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00309,Stabilizovaný guličkový Amarant - Limetková zelená,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00310,Stabilizovaný guličkový Amarant - Stredná zelená,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
@@ -290,8 +290,8 @@ P00315,Stabilizovaný Eukalyptus Cinerea - Bordový,Stabilizované rastliny a kv
 P00316,Stabilizovaný Eukalyptus Globulus,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00317,Stabilizované kvety Broom - Staroružová,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00318,Stabilizovaný ryžový kvet - Žltý,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00319,Stabilizovaný mach - lišajník - Fialová,Sobí mach - Lišajník,20.0,4.0,8900.0,1300.0,0,0,1.78,0.26
-P00320,Lišajníkové kopčeky,Sobí mach - Lišajník,8.0,1.0,0.0,0.0,0,0,8.0,1.0
+P00319,Stabilizovaný mach - lišajník - Fialová,Sobí mach - Lišajník,20.0,4.0,8900.0,1300.0,0,0,1.78,0.42
+P00320,Lišajníkové kopčeky,Sobí mach - Lišajník,8.0,1.0,0.0,0.0,0,0,8.0,1.87
 P00321,"Kopčekový mach Mini - Lesná zelená - Balenie 0,15m2",Kopčekový mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00322,Drevené konáre - Biele,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00323,Orech Mintolla - sušený,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
@@ -299,13 +299,13 @@ P00324,Sušený plod Badam,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00327,Sušené kvety Rodanthe- Ružové,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00328,Stabilizovaný Amarant - Žltý,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00329,"Kopčekový mach Mini - Jarná zelená - Balenie 0,15m2",Kopčekový mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00330,Drevená dekoračná kôra,Príslušenstvo,1.0,1.0,0.0,0.0,0,0,1.0,1.0
+P00330,Drevená dekoračná kôra,Príslušenstvo,1.0,1.0,0.0,0.0,0,0,1.0,0.23
 P00331,Rám na machový obraz - Hexagón - Eben (Čierna),Rámy na machové obrazy,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00332,Rám na machový obraz - Hexagón - Dub,Rámy na machové obrazy,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00333,Stabilizované kvety Gypsophila - Zelené,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00334,Stabilizovaný ryžový kvet - Marhuľový,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00335,Kruhový rám na machový obraz - Rôzne veľkosti - Čierny,Rámy na machové obrazy,10.0,1.0,0.0,0.0,0,0,10.0,1.0
-P00336,Kruhový rám na machový obraz - Rôzne veľkosti - Gaštan,Rámy na machové obrazy,2.0,1.0,0.0,0.0,0,0,2.0,1.0
+P00335,Kruhový rám na machový obraz - Rôzne veľkosti - Čierny,Rámy na machové obrazy,10.0,1.0,0.0,0.0,0,0,10.0,2.33
+P00336,Kruhový rám na machový obraz - Rôzne veľkosti - Gaštan,Rámy na machové obrazy,2.0,1.0,0.0,0.0,0,0,2.0,0.47
 P00337,"Kopčekový mach Mini - Jablkovo zelená - Balenie 0,15m2",Kopčekový mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00338,Stabilizované kvety Brunia - Ružové,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00339,"Stabilizovaná ""zvonová"" tráva",Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
@@ -331,18 +331,18 @@ P00359,Stabilizované kvety Gypsophila - Limetková zelená,Stabilizované rastl
 P00360,Stabilizovaná hortenzia - Azúrová,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00361,Stabilizovaná hortenzia - Červená,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00362,Stabilizovaná hortenzia Grandiflora - Krémová,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00363,DIY sada na machový strom - 30cm,Darčekové sady na výrobu obrazov,4.0,0.0,0.0,0.0,0,0,4.0,0.0
+P00363,DIY sada na machový strom - 30cm,Darčekové sady na výrobu obrazov,4.0,0.0,0.0,0.0,0,0,4.0,0.93
 P00364,Stabilizovaný Cocolus - Bordový,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00365,Plochý mach Rock - Svetlozelený,Plochý mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00366,Drevené kolieska veľké,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00367,"Plochý mach - Balenie 0,5m2",Plochý mach,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00368,DIY sada na machový strom - 40cm,Darčekové sady na výrobu obrazov,4.0,0.0,0.0,0.0,0,0,4.0,0.0
+P00368,DIY sada na machový strom - 40cm,Darčekové sady na výrobu obrazov,4.0,0.0,0.0,0.0,0,0,4.0,0.93
 P00369,Stabilizovaný ryžový kvet - Fialový,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00370,Machový strom - Borovicová zelená,JARNÁ PONUKA,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00372,Šiška - sušená malá,Príslušenstvo,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00373,Stabilizovaný vres - Modrý,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
 P00374,Stabilizované vetvičky Tuje,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00375,Kopčekový mach - Jasná zelená,Kopčekový mach,70.0,0.0,0.0,0.0,0,0,70.0,0.0
+P00375,Kopčekový mach - Jasná zelená,Kopčekový mach,70.0,0.0,0.0,0.0,0,0,70.0,16.33
 P00376,Stabilizovaná hortenzia - Fialová,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
-P00377,Stabilizovaná papraď Holly,Stabilizované rastliny a kvety,4.0,2.0,0.0,0.0,0,0,4.0,2.0
+P00377,Stabilizovaná papraď Holly,Stabilizované rastliny a kvety,4.0,2.0,0.0,0.0,0,0,4.0,0.93
 P00378,Sušené kvety Glixia- Magenta,Stabilizované rastliny a kvety,0.0,0.0,0.0,0.0,0,0,0.0,0.0
